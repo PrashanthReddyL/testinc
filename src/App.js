@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Test App for Azure
+          Test App for Azure..!
         </p>
       </header>
     </div>
